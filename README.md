@@ -1,10 +1,13 @@
+
+<p align="left"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F524036106640179988%2F&psig=AOvVaw16sr_2ZdcztXOcPwTbTre0&ust=1635880956358000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCdsM7x9_MCFQAAAAAdAAAAABAD" alt="codemish" /></p>
+
 <h1 align="center">Hi 👋, I'm Nimish Khandelwal</h1>
 <h3 align="center">I Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemish&label=Profile%20views&color=0e75b6&style=flat" alt="codemish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codemish" alt="codemish" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47dg2ncigemr6y58bh9o4x8376m5tqgojxvxogle90&rid=giphy.gif&ct=g">
 - 👨‍💻 Portfolio [https://nimishkhandelwal-website.netlify.app/](https://nimishkhandelwal-website.netlify.app/)
 
 - 📫 How to reach me **nimish.khandelwal29@gmail.com**
